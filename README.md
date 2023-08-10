@@ -30,7 +30,7 @@ The Dice Roller App is a basic Flutter application that allows users to simulate
 
 3. Navigate to the project directory:
    ```bash
-   cd dicey-flutter
+   cd dicey-flutter-main
 
 5. Install dependencies:
    ```bash
