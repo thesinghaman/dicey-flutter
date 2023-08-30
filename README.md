@@ -26,11 +26,11 @@ The Dice Roller App is a basic Flutter application that allows users to simulate
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dice-roller-app.git
+   git clone https://github.com/thesinghaman/dice-roller-app.git
 
 3. Navigate to the project directory:
    ```bash
-   cd dicey-flutter-main
+   cd dicey-flutter
 
 5. Install dependencies:
    ```bash
